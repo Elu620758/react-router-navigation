@@ -1,6 +1,6 @@
 
 import './App.css';
-import { Route, Routes, Link } from 'react-router-dom';
+import { Route, Routes,} from 'react-router-dom';
 import NavBar from './component/NavBar';
 import CyberSecurity from './component/Cybersecurity';
 import FullStackDevelopment from './component/FullStack';
